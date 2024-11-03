@@ -12,6 +12,7 @@ The C++ part demonstrates how to compress 3D Mesh Geometric data and decompress 
 ## Node.js
 The Node.js part demonstrate how to decompress 3D Mesh Geometric data and query by Attribute metadata.
  - Go to the `node_decoder` directory.
+ - Run `npm i`.
  - Run `npm run dev` to start Express.js server.
  - Open the url(http://localhost:3000) to see the decoded data of the `compressed_mesh.drc` file.
 
